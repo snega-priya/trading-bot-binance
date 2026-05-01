@@ -1,0 +1,4 @@
+2026-05-01 14:12:30,945 - INFO - Placing MARKET order: BTCUSDT BUY 0.001
+2026-05-01 14:12:31,810 - INFO - Order Response: {}
+2026-05-01 14:12:37,807 - INFO - Placing LIMIT order: BTCUSDT BUY 0.001 @ 50000.0
+2026-05-01 14:12:38,465 - INFO - Order Response: {}
